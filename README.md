@@ -2,6 +2,8 @@
 
 A streamlined image classification application built with Streamlit and Hugging Face Transformers.
 
+![App Preview](app_preview.png)
+
 ## Features
 
 - **Local Inference**: Uses Vision Transformer (ViT) models to identify clothing items without sending data to the cloud.
