@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+Pillow
+watchdog
+rembg
+onnxruntime
+numpy<2.3
